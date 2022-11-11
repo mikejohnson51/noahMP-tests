@@ -1,0 +1,29 @@
+huc10,dams,gages,name,hutype,states,areasqkm,water,urban,barren,forest,shrub,grassland,agriculture,wetland,lc10,lcMax,compact,class,near_area,near_maj,area_maj,Urban < 10,Mike
+1203010302,0,2,Buck Creek-Isle du Bois Creek,S,TX,518.84,3.63,4.5,0.02,15.3,1.29,36.6,38.32,0.35,3,38.32,0.81,agriculture-forest-grassland,44.63,41.32,22.77,TRUE,
+,,,,,,,,,,,,,,,,,,,,,,,
+1704020303,0,4,Lower Fall River,S,"ID,WY",486.44,0.36,1.62,0,32.77,17.32,0.43,43.79,3.7,3,43.79,0.81,agriculture-forest-shrub,23.79,19.63,16.56,TRUE,
+206000602,0,2,Little Patuxent River,S,MD,418.53,0.28,44.62,0.57,30.92,0.45,0.7,18.05,4.39,3,44.62,0.79,agriculture-forest-urban,54.80,50.85,26.78,FALSE,
+1107010704,0,5,Lower Bird Creek,S,OK,599.58,1.07,42.77,0.46,24.24,1.27,7.41,21.57,1.21,3,42.77,0.74,agriculture-forest-urban,43.93,41.32,27.19,FALSE,X
+205030616,0,2,Deer Creek,S,"MD,PA",442.59,0.11,10.26,0.01,39.29,0.77,0.17,48.75,0.64,3,48.75,0.73,agriculture-forest-urban,49.95,43.83,27.60,TRUE,
+504000105,0,2,Nimishillen Creek,S,OH,486.49,0.59,46.95,0.15,15.3,0.21,0.63,34.86,1.31,3,46.95,0.74,agriculture-forest-urban,54.56,49.33,29.95,FALSE,
+1101000203,0,5,Wilsons Creek-James River,S,MO,522.7,0.16,38.33,0.3,16.59,0.14,0.38,43.86,0.24,3,43.86,0.75,agriculture-forest-urban,40.37,34.97,32.18,FALSE,X
+513020401,0,2,Upper Harpeth River,S,TN,572.03,0.14,17.95,0.17,39.41,0.31,0.86,41.11,0.05,3,41.11,0.84,agriculture-forest-urban,49.24,47.28,32.51,FALSE,X
+205030509,0,2,Lower Swatara Creek,S,PA,524.93,0.75,28.03,0.16,30.7,1,0.4,38.18,0.77,3,38.18,0.80,agriculture-forest-urban,48.66,44.46,33.66,FALSE,X
+514010208,0,2,Upper Floyds Fork,S,KY,445.12,0.69,17.78,0.12,43.39,0.17,0.95,36.85,0.05,3,43.39,0.86,agriculture-forest-urban,51.20,47.20,34.29,FALSE,X
+,,,,,,,,,,,,,,,,,,,,,,,
+1103001301,0,2,Cowskin Creek-Arkansas River,S,KS,788.32,1.71,42.47,0.05,2.26,0.02,16.47,36.7,0.32,3,42.47,0.79,agriculture-grassland-urban,38.97,35.17,29.74,FALSE,X
+,,,,,,,,,,,,,,,,,,,,,,,
+1810020101,0,3,San Gorgonio River,S,CA,523.51,0.01,7.16,3.28,16.92,35.73,34.7,1.33,0.88,3,35.73,0.91,forest-grassland-shrub,29.11,26.08,12.12,TRUE,X
+1007000608,0,2,Red Lodge Creek,S,MT,620.44,0.45,0.81,0.01,17.65,40.76,29.79,7.35,3.18,3,40.76,0.76,forest-grassland-shrub,32.37,30.18,12.74,TRUE,
+1701020104,0,3,Warm Springs Creek-Clark Fork ,S,MT,613.85,1.48,1.52,1.65,32.61,26.82,23.45,9.01,3.45,3,32.61,0.78,forest-grassland-shrub,30.09,27.83,14.03,TRUE,
+1019000206,0,2,West Plum Creek,S,CO,495.4,0.05,6.15,0,42.49,21.73,27.23,0.04,2.32,3,42.49,0.81,forest-grassland-shrub,32.34,31.45,16.28,TRUE,
+1806001007,0,3,Salsipuedes Creek-Santa Ynez River,S,CA,416.59,0.16,10.23,0.81,17.34,45.31,15.42,8.2,2.52,4,45.31,0.72,forest-grassland-shrub,35.47,31.99,20.76,TRUE,
+,,,,,,,,,,,,,,,,,,,,,,,
+1012011002,0,4,Middle Rapid Creek,S,SD,480.24,0.17,18.43,0.27,32.94,9.8,34.09,2.73,1.57,3,34.09,0.72,forest-grassland-urban,28.95,25.81,17.71,FALSE,
+1805000408,7,6,San Lorenzo Creek-Frontal San Francisco Bay Estuaries,F,CA,430.19,0.88,55.64,0.07,25.73,8.01,9.01,0.23,0.42,2,55.64,0.79,forest-grassland-urban,37.98,38.46,22.84,FALSE,
+,,,,,,,,,,,,,,,,,,,,,,,
+1701030803,0,2,Lower Little Spokane River,S,WA,663.6,0.06,14.3,0,42.18,24.54,4.71,12.38,1.84,4,42.18,0.74,forest-shrub-urban,39.23,34.40,22.94,TRUE,X
+1210030204,0,2,Leon Creek,S,TX,615.07,0.1,49.32,0.29,27.85,14.06,2.4,4.71,1.28,3,49.32,0.73,forest-shrub-urban,50.00,46.55,27.32,FALSE,
+,,,,,,,,,,,,,,,,,,,,,,,
+1807030407,2,3,Lower San Diego River,S,CA,419.11,0.49,54.38,0.25,0.09,38.94,4.49,0.65,0.71,2,54.38,0.80,grassland-shrub-urban,37.53,35.60,23.47,FALSE,
+,,,,,,,,,,,,,,,,,,,,,,,8
